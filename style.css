@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #562EFF;
+}
+.idea-icon img{
+    height: 50px;
+}
+nav span a {
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
+}
